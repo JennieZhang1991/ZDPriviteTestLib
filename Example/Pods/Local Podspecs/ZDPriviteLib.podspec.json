@@ -1,0 +1,22 @@
+{
+  "name": "ZDPriviteLib",
+  "version": "0.1.0",
+  "summary": "A short description of ZDPriviteLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/809184491@qq.com/ZDPriviteLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "809184491@qq.com": "809184491@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/JennieZhang1991/ZDPriviteTestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ZDPriviteLib/Classes/**/*"
+}

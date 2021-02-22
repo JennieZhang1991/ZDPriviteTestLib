@@ -1,0 +1,16 @@
+PODS:
+  - ZDPriviteLib (0.1.0)
+
+DEPENDENCIES:
+  - ZDPriviteLib (from `../`)
+
+EXTERNAL SOURCES:
+  ZDPriviteLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZDPriviteLib: c3525353b3dac9d61f285d988de09875ca9bb528
+
+PODFILE CHECKSUM: 77bfd8b700bd42c886086032359051c4ca5971a7
+
+COCOAPODS: 1.10.0

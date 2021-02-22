@@ -1,0 +1,6 @@
+framework module ZDPriviteLib {
+  umbrella header "ZDPriviteLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
