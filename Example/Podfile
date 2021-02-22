@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ZDPriviteLib_Tests' do
+  pod 'ZDPriviteLib', :path => '../'
+  
+  
+end
